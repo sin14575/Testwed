@@ -7,6 +7,7 @@ abc
  *LOLOLOL
  *HAHAHAH
  *Another hange
+ *checking fetch AND MERGE
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
